@@ -21,7 +21,7 @@ Based on the nitrogen dioxide and weather data from 2015 to 2019, we can see tha
 Following inferences can be made from the regression model used:
 
 *   A decrease in Min temperature, wind speed, cloud cover, humidity increases the nitrogen dioxide level.
-*   An decrease in pressure decreases the nitrogen dioxide level.
+*   A decrease in pressure decreases the nitrogen dioxide level.
 
 Although based on the correlation matrix, the correlation between weather parameters and nitrogen dioxide doesn't seem to be very strong but based on the Null Hypothesis, we can conclude that weather parameters like Min Temperature, Wind Speed, Pressure and Cloud Cover does have an impact on nitrogen dioxide and we cannot ignore them. 
 
