@@ -3,6 +3,9 @@ The scope of this project is limited to the city of Austin, Texas in USA.
 
 ![Austin Air Pollutants](images/img1.png)
 
+## Project Purpose
+The purpose of this project is to analyze the air pollutants for the city of Austin in Texas and try to establish the correlation between pollutants like Ozone and NO2 with the weather parameters.
+
 ##  Tools & Models Used
 **Regression Models | Linear Regression | Lasso | Random Forest | Polynomial Regression | Feature Selection | Hypothesis Testing | Scikit Learn | Python3 | Pandas | Numpy | Plotly | Seaborn | Feature Scaling | API | Requests** 
 
