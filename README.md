@@ -1,4 +1,4 @@
-##  Austin Air Qaulity Analysis and Prediction
+#  Austin Air Qaulity Analysis and Prediction
 The scope of this project is limited to the city of Austin, Texas in USA.
 
 ![Austin Air Pollutants](images/img1.png)
