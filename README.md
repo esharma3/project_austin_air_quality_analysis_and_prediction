@@ -1,17 +1,17 @@
 ##  Austin Air Qaulity Analysis and Prediction
 The scope of this project is limited to the city of Austin, Texas in USA.
 
-![Austin Air Pollutants](images/img2.png)
+![Austin Air Pollutants](images/img1.png)
 
 ##  Tools & Models Used
 **Regression Models | Linear Regression | Lasso | Random Forest | Polynomial Regression | Feature Selection | Hypothesis Testing | Scikit Learn | Python3 | Pandas | Numpy | Plotly | Seaborn | Feature Scaling | API | Requests** 
 
-### Data Source
+## Data Source
 Five years of data has been used for this project from 2015 to 2019. Data has been collected using API from the following two sources:
 1. epa.gov - air pollutants (Ozone, PM2.5, NO2, SO2)
 2. worldweatheronline.com - weather parameters
 
-### Findings & Conclusion: 
+## Findings & Conclusion: 
 
 **Nitrogen Dioxide (NO2) and Weather Co-relation Study for the City of Austin, Texas**   
 
@@ -35,7 +35,7 @@ Following inferences can be made from the regression model used:
 
 Although based on the correlation matrix, the correlation between weather parameters and ozone doesn't seem to be very strong but based on the Null Hypothesis, we can conclude that weather parameters like Max Temperature, Humidity, Wind Speed and Cloud Cover does have an impact on ozone and we cannot ignore them.
 
-### From Official EPA website:
+## From Official EPA website:
 
 Climate change can impact air quality and, conversely, air quality can impact climate change. 
 
