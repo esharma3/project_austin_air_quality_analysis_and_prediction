@@ -1,10 +1,10 @@
 ##  Austin Air Qaulity Analysis and Prediction
-* The scope of this project is limited to the city of Austin, Texas in USA.
+The scope of this project is limited to the city of Austin, Texas in USA.
 
-![Austin Air Pollutants](images/img1.png)
+![Austin Air Pollutants](images/img2.png)
 
-##  Technologies Used
-Regression Models | Polynomial Regression | Feature Selection | Hypothesis Testing | Scikit Learn | Python3 | Pandas | Numpy | Plotly | Seaborn | 
+##  Tools & Models Used
+**Regression Models | Linear Regression | Lasso | Random Forest | Polynomial Regression | Feature Selection | Hypothesis Testing | Scikit Learn | Python3 | Pandas | Numpy | Plotly | Seaborn | Feature Scaling | API | Requests** 
 
 ### Data Source
 Five years of data has been used for this project from 2015 to 2019. Data has been collected using API from the following two sources:
