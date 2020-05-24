@@ -1,4 +1,4 @@
-#  Austin Air Qaulity Analysis and Prediction
+#  Austin Air Quality Analysis and Prediction
 The scope of this project is limited to the city of Austin, Texas in USA.
 
 ![Austin Air Pollutants](images/img1.png)
@@ -38,7 +38,7 @@ Following inferences can be made from the regression model used:
 Although based on the correlation matrix, the correlation between weather parameters and ozone doesn't seem to be very strong but based on the Null Hypothesis, we can conclude that weather parameters like Max Temperature, Humidity, Wind Speed and Cloud Cover does have an impact on ozone and we cannot ignore them.
 
 
-## From official EPA website:
+## From the official EPA website:
 
 Climate change can impact air quality and, conversely, air quality can impact climate change. 
 
