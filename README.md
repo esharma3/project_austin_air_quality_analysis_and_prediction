@@ -6,12 +6,12 @@ The scope of this project is limited to the city of Austin, Texas in USA.
 ##  Tools & Models Used
 **Regression Models | Linear Regression | Lasso | Random Forest | Polynomial Regression | Feature Selection | Hypothesis Testing | Scikit Learn | Python3 | Pandas | Numpy | Plotly | Seaborn | Feature Scaling | API | Requests** 
 
-## Data Source
+## Data Sources
 Five years of data has been used for this project from 2015 to 2019. Data has been collected using API from the following two sources:
 1. epa.gov - air pollutants (Ozone, PM2.5, NO2, SO2)
 2. worldweatheronline.com - weather parameters
 
-## Findings & Conclusion: 
+## Findings & Conclusion 
 
 **Nitrogen Dioxide (NO2) and Weather Co-relation Study for the City of Austin, Texas**   
 
